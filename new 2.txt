@@ -1,0 +1,39 @@
+Santosh: Installed TieferAI. Analysis of the site is not done, tool is running for a few seconds, no error and no data also. Trying to debug the issues and waited for the version which generates the log. Instalation of the latest version inprogress. Facing issue with sharing the files as all the shared location are removed.
+Venkana: Today only Anaconda is installed. Package installation inprogress. Latest version yet to be installed
+Varsha: Not able to install the latest version through avecto. After starting the installation the pop disappears without any error message. IT team is investigating
+Arpitha: uninstalling the previous version and New version installation inprogress.
+
+Hi Team
+
+Sample reports are already send and i have copied to all.
+Kindly follow this and fill the remaining reports.
+By wednesday we need to collect all the site's data and get the reports done.
+Currently reports are done for 
+Jomalone
+Esteelauder
+BumbleandBumble
+Origins
+The rest 17 sites needs to be completed by 28th
+Updated installer file is available with santosh and varsha. @Venkana and Arpitha: install the latest version and start your testing
+For the next two days, every day i need two completed reports from each of you.
+Full report should contain all the data that is available from TierferAI(if any of the module is not running, find the issue and if no issue need to rerun and get the data.)
+Some of the data are description type and needs to be copied from dashboard. After a run, fill the report and then close/run another analysis.
+for any clarification contact me.
+
+Thanks
+Suganthi
+
+
+Varsha: in your Kilian data file:
+2.1 Seo validation 8 description available 9. desc recommendation is not available
+3.4: optimization - Gzip data is missing
+3.5 Network factor test - Page size is 0, but that cannot be
+4.1 visual analysis Percentage will only for sub headings like 1.Layout check, 2. Image scaling etc
+
+
+
+
+
+
+for all: for any module if data is not available, then check the log, if paste the error in 'G' column of the report for further analysis
+while using the csv file in excel do not merge any column/row, this will merge all the columns/rows when you save and reopen the file.
